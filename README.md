@@ -9,6 +9,10 @@ Senior full-stack engineer in Tartu, Estonia. 15+ years, mostly TypeScript, Reac
 - **The platform underneath it.** I've been its sole architect for 12 years: REST API, schema, admin and mobile apps, payment integrations (Stripe, Braintree, Montonio, Paysera) with webhooks and retries, a zero-downtime migration from PHP to Spring Boot, and the GitHub Actions pipeline that ships it all.
 - **Before that:** frontend ownership on a 430K-user booking platform, four years on a US-regulated real-money platform (1M+ MAU), and leading a mobile team of five on React Native apps.
 
+### Side project
+
+**[Darts Decision Trainer](https://github.com/marinobresciani/darts-decision-trainer)**: you choose where to aim, the simulator chooses where the dart lands. A calibrated throw model on real board geometry, a route engine that grades every decision by expected darts to finish, and darts that stay in the board and get in the way. React Native + Web, TypeScript, tested engine.
+
 ### Why the repos here are quiet
 
 My production code is private because it runs on real customer data. The contribution graph is that work.
